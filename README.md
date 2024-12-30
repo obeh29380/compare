@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-pip install git+https://
+pip install git+https://github.com/obeh29380/compress.git
 ```
 
 ## sample
