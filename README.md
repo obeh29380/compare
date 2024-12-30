@@ -1,4 +1,4 @@
-# NKMRCompress
+# Compress
 
 ハフマン符号化を用いた圧縮機。  
 
