@@ -1,0 +1,1 @@
+from compress.compressor import *
